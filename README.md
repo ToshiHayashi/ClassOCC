@@ -2,7 +2,6 @@
 The classification algorithm for OCC models.
 
 # Sleeping experiment
-The data holder is University of Ostrava.
 Please obtain permission to use the Fitbit dataset. <br>
 https://haie-lerco.cz/en/data-en/ <br>
 So we can share preprocessed sleep records and codes.
